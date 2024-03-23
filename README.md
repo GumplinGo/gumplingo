@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi, this is Gumplin Go~ 👋 😄
+> 你好，我是小江大浪~ 👋 😄
 
-<!--
-**GumplinGo/gumplingo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### I am a self-taught programming non-class front-end development, with a full-stack goal and graduated in June 2019.
+> 我是一名自学编程的非科班前端开发，有一个全栈目标，我毕业于2019六月。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### I am intermittent efforts to study and fitness, continuous watching animation, playing game 😂
+> 间歇性奋发图强学习和健身，持续性看动漫、打王者😂
+
+
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GumplinGo)](https://github.com/anuraghazra/github-readme-stats)
