@@ -2,7 +2,7 @@
 > 你好，我是小江大浪~ 👋 😄
 
 
-### I am a self-taught programming non-class front-end development, with a full-stack goal and graduated in June 2019.
+### I am a self-taught programming non-class front-end developer, with a full-stack goal and graduated in June 2019.
 > 我是一名自学编程的非科班前端开发，有一个全栈目标，我毕业于2019六月。
 
 ### I am intermittent efforts to study and fitness, continuous watching animation, playing game 😂
